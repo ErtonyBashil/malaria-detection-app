@@ -9,7 +9,6 @@ import {
   ScrollView,
 } from 'react-native';
 import * as ImagePicker from 'expo-image-picker';
-import * as DocumentPicker from 'expo-document-picker';
 import LoadingModal from '../../components/LoadingModal';
 
 export default function FileUploadScreen() {
