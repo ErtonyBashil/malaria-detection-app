@@ -72,7 +72,7 @@ export default function FileUploadScreen() {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Téléverser le fichier</Text>
+      <Text style={styles.title}>Paludismes detection board</Text>
 
       <View style={styles.mainPreview}>
         {selectedFile ? (
